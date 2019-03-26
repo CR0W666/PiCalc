@@ -4,7 +4,6 @@ class PiCalc {
     public static void main(String[] args) {
 
         BigDecimal pi = new BigDecimal("0");
-        BigDecimal tmpi = new BigDecimal("0");
 
         for (long i = 0;; i++) {
 
